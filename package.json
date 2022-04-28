@@ -17,7 +17,7 @@
     "@stripe/react-stripe-js": "^1.4.1",
     "@stripe/stripe-js": "^1.16.0",
     "aos": "^2.3.4",
-    "axios": "^0.24.0",
+    "axios": "^0.27.2",
     "browser-image-compression": "^1.0.17",
     "classnames": "^2.3.1",
     "clsx": "^1.1.1",
